@@ -101,7 +101,7 @@ The Texas Chapter Coordinator shall be responsible for coordinating activities a
 
 ### Section 5.13 YDSA Chapter Coordinator
 
-The YDSA Chapter Coordinator shall be a Co-chair of the YDSA Committee and shall be responsible for coordinating activities and campaigns of the Chapter with Young Democratic Socialists of America chapters in and near Central Texas, including without limitations: (a) supporting existing YDSA organizing committees and chapters in their organizing efforts; (b) facilitating tabling and other direct recruitment at university, community college, and high school campuses; and (c) fostering leadership and orderly transitions of leadership in local YDSA groups.
+The YDSA Chapter Coordinator shall be an Co-chair of the YDSA Committee ex-officio member of Austin YDSA and shall be responsible for coordinating activities and campaigns of the Chapter with Young Democratic Socialists of America (YDSA) chapters in and near Central Texas, including without limitations: (a) supporting existing YDSA organizing committees and chapters in their organizing efforts; (b) facilitating tabling and other direct recruitment at university, community college, and high school campuses; and (c) fostering leadership and orderly transitions of leadership in local YDSA groups; (d) being the primary liaison between YDSA chapters, Austin YDSA and Austin DSA; and (e) serve as the voice of YDSA chapters on the Leadership Committee.
 
 ### Section 5.14
 
@@ -197,10 +197,6 @@ The Membership Engagement Committee shall be responsible for the oversight and i
 
 The Electoral Committee shall be responsible for coordinating the electoral activities and campaigns of the Chapter, including without limitation: (a) proactive electoral research for potential electoral campaigns led by Austin DSA; (b) creating endorsement procedures to be voted on by the Leadership Committee (including the creation and dissemination of endorsement questionnaires, candidate interviews, and producing endorsement recommendations to the chapter membership); and (c) organizing canvasses and other campaign activities for endorsed candidates. The Electoral Committee shall have two co-chairs, elected by the membership of the Committee, one of whom will be the Electoral Coordinator.
 
-#### Section 7.2.8. YDSA Committee
-
-The YDSA Committee shall have at least two members, and shall be responsible for forming and maintaining lasting connections with existing YDSA chapters across the Austin DSA area and encouraging the formation of new chapters at high schools and universities in the Austin DSA area. The committee will also be responsible for connecting with the National YDSA, as well as chapters outside of the Austin DSA area when relevant. The YDSA Committee shall have two co-chairs, democratically elected by the committee membership, one of whom shall be the YDSA Coordinator.  Other officer positions and subcommittees may be created if approved by the membership of the committee without needing amendments to the bylaws herein.
-
 ### Section 7.3. Ad Hoc Committees
 
 The Leadership Committee or the Co-Chairs may create and appoint members to ad hoc committees to handle specific administrative tasks or priorities of the Leadership Committee. The Leadership Committee shall define the specific purpose and duration of an ad hoc committee in writing at the time of creation. 
@@ -209,31 +205,53 @@ The Leadership Committee or the Co-Chairs may create and appoint members to ad h
 
 Caucuses are independent, self-organized formations of members of Austin DSA. Austin DSA encourages members to form caucuses to promote a vibrant democratic culture within the organization. Members may self-organize into temporary or permanent caucuses according to their shared interests, identities, or affinities for any purpose which is consistent with the values of the Democratic Socialists of America. Identity-based caucuses shall have access to chapter resources. 
 
-## Article 8 Rules and Prohibited Activity
+## Article 8 Austin YDSA
 
-### Section 8.1 Additional Governing Rules
+### Section 8.1 Constitution
+
+1. Austin YDSA shall be a board [RONR (12th ed.) 1:22, 49] with the power to act as Austin YDSA. 
+
+2. Austin YDSA shall constitute a de facto regional chapter of the Young Democratic Socialists of America as defined by Resolution #35, adopted by YDSA at the 2025 National Convention, attached herein as Addendum 3.
+
+3.Austin YDSA shall abide to the fullest extent possible by feminist process in their operations, as defined in Addendum 1 of these Bylaws.
+
+### Section 8.2 Bylaws
+
+Austin YDSA shall be responsible for the creation and maintenance of its own bylaws. Where the bylaws of Austin YDSA and Austin DSA conflict, the Austin DSA bylaws are supreme.
+
+### Section 8.3 Boards and Committees
+
+Austin YDSA shall have the power to create committees and boards, and may delegate its own powers, including the power to act, to such committees and boards.
+
+### Section 8.4 Membership
+
+Membership in Austin YDSA shall be open to all members in good standing of Austin DSA under the age of 30.
+
+## Article 9 Rules and Prohibited Activity
+
+### Section 9.1 Additional Governing Rules
 
 In addition to Austin DSA’s certificate of formation and bylaws, the Leadership Committee may propose standing rules, special rules of order, and any other procedures governing Austin DSA which shall be effective upon their ratification by a majority of the members at any General Meeting, Special Meeting, or Membership Convention. The rules contained in Robert’s Rules of Order Newly Revised shall govern Austin DSA in all cases in which they are applicable, and in which they are not inconsistent with the bylaws, special rules of order, and any procedures approved by the members of this Chapter.
 
-### Section 8.2 Conflict of Interest
+### Section 9.2 Conflict of Interest
 
 A conflict of interest exists when a matter to be acted upon by Austin DSA or the Leadership Committee confers a direct, substantial benefit to any Leadership Committee member. The Leadership Committee Member shall disclose the conflict in writing and it will be made public to the Chapter Members before the matter is discussed or voted on at a meeting. If the matter is before the Leadership Committee only it shall be made known to the Leadership Committee there before any discussion or vote may proceed. Chairpeople of committees will be subject to the same Conflict of Interest disclosure requirements.
 
-### Section 8.3 Conflict Resolution and Harassment Policy
+### Section 9.3 Conflict Resolution and Harassment Policy
 
-#### Section 8.3.1 Form
+#### Section 9.3.1 Form
 
 Austin DSA adopts the Grievance and Harassment Policy adopted by DSA at the 2017 National Membership Convention (Resolution #33), attached as Addendum 2.
 
-#### Section 8.3.2 Conduct of Members. 
+#### Section 9.3.2 Conduct of Members. 
 
 All members of Austin DSA have a right to participation and enjoyment of the rights and privileges of membership without interference, harassment, bullying, or uncomradely behavior. No member may engage in behavior that either in its purpose or effect creates a hostile environment that interferes with an individual’s capacity to organize within DSA; or, through its severity or persistence is intimidating, hostile, or offensive. Any code of conduct adopted by the national organization is in effect within Austin DSA.
 
-#### Section 8.3.3 Mediation and Conflict Resolution.
+#### Section 9.3.3 Mediation and Conflict Resolution.
 
 Members may request, and where possible the Leadership Committee may facilitate, mediation for conflict resolution between members or groups of members. Where feasible professional mediation may be sought.
 
-### Section 8.3.4 Incorporation
+### Section 9.3.4 Incorporation
 
 Resolution #33 of the 2017 National DSA Membership Convention is incorporated fully to this Section as the policy of Austin DSA (Addendum 2), with the Leadership Committee serving the role of the Steering Committee referred to in the policy. The Leadership Committee will:
 
@@ -243,45 +261,45 @@ Resolution #33 of the 2017 National DSA Membership Convention is incorporated fu
 4. Develop template forms both for reporting and responding to accusations of harassment in the form required by the Resolution; and
 5. Handle complaints in the manner prescribed by the Resolution.
 
-## Article 9 Elections Processes
+## Article 10 Elections Processes
 
-### Section 9.1 Score Voting for Internal Elections
+### Section 10.1 Score Voting for Internal Elections
 
 The membership shall use score voting for any internal election using a 0-2 scale. For each candidate, a voter may choose 0 to indicate disapproval, 1 to indicate neutral, or 2 to indicate approval of that candidate. The winner of an election conducted with score voting is the candidate with the highest score. A voter who casts an incomplete ballot (does not indicate a score for every candidate) will be assumed to have voted 0 for any unmarked candidates. When counting ballots which contain all votes not clearly indicating a 1 or 2 (e.g., a check or X), votes for a candidate shall be counted as the highest score on the scale.
 
-### Section 9.2 Electoral Candidate Endorsement Process
+### Section 10.2 Electoral Candidate Endorsement Process
 1. A two-thirds supermajority of a general body meeting or special called meeting shall be required for endorsement, and for the resources of Austin DSA PAC to be mobilized on behalf of a candidate or campaign for public office.
 2. In single seat races, no more than one candidate shall receive endorsement.
 3. If more than one candidate in the same race receives over two-thirds plus one supermajority of the votes for endorsement, the candidate who receives the largest percentage of votes will get the endorsement.
 4. Abstentions are not to be counted against the percentage count of the candidate.
 
-### Section 9.3 Suspension and Revocation of Candidate Endorsement
+### Section 10.3 Suspension and Revocation of Candidate Endorsement
 1. The endorsement of the chapter may be provisionally suspended at the discretion of the Leadership Committee upon receiving notice of campaign or candidate behavior in serious or repeated violation of our bylaws, Feminist Process, or expectations of candidate and campaign behavior established by our endorsement process.
 2. Upon suspension, the Leadership Committee shall immediately inform membership, as well as the candidate, explaining the reason for suspension. No candidate event shall be publicly promoted, nor any expenditure on our chapter’s campaign for the candidate be authorized by the Leadership Committee, pending a vote of the general body to revoke or keep the endorsement.
 3. A vote to revoke or keep the endorsement shall be agendized at a General Body Meeting within two weeks of Leadership Committee’s decision to suspend, or a special called meeting during that period shall be held to discuss and vote on revoking endorsement.
 4. A two-thirds supermajority shall be required to revoke endorsement and to demobilize Austin DSA PAC resources on behalf of the campaign. Abstentions are not to be counted against the percentage count of the candidate.
 
-## Article 10 Amendments
+## Article 11 Amendments
 
-### Section 10.1 Notice of Proposed Amendments
+### Section 11.1 Notice of Proposed Amendments
 
 Members wishing to amend these bylaws must submit such draft amendments (a “Draft Amendment Petition”) to the Co-Chairs and Secretary twenty-one days in advance of regularly scheduled General Meetings or the Membership Convention. The Draft Amendment Petition shall be signed by a Proponent plus thirty-five members of the Chapter. Discussion and a vote upon such amendments shall be listed on the membership meeting or membership convention agenda which is communicated to the membership ten days in advance of the meeting. The Co-Chairs and Secretary, or an ad hoc committee convened for this purpose, may consolidate substantively similar draft amendments. To ensure robust debate and economy of time, no more than five proposed amendments, chosen by the Co-Chairs and Secretary or the ad hoc committee created for this purpose, may be considered in one meeting.
 
-### Section 10.2 Bylaw Changes
+### Section 11.2 Bylaw Changes
 
 These bylaws may be amended, repealed or altered in whole or in part by a two-thirds vote of the meeting of the membership at which there is a quorum, and where proposed amendments meet criteria in Section 1 above.
 
 With unanimous approval the Leadership Committee may make non-substantive edits to the bylaws to address issues relating to formatting, readability, spelling, grammar, etc.
 
-### Section 10.2.1 Notification of Changes to Bylaws
+### Section 11.2.1 Notification of Changes to Bylaws
 
 Austin DSA members must be notified within thirty days of any changes to these bylaws. 
 
-## Article 11 Jurisdiction
+## Article 12 Jurisdiction
 
 The Austin DSA area shall be Austin, Texas and Central Texas from Waco to San Marcos. The core area of Austin DSA will include Austin/Travis County, Bastrop County, Williamson County, Burnet County, Blanco County, Hays County, and Caldwell County. Austin DSA will accept members from the Waco, Temple, and Killeen areas until such time as DSA members in those locations form DSA Organizing Committees.
 
-## Article 12 Indemnification and Insurance.
+## Article 13 Indemnification and Insurance.
 
 The Leadership Committee may indemnify and hold harmless any officer of the organization to the maximum extent allowed by [Charitable Liability and Immunity Act, Tex. Civ. Prac. & Rem Code Sec 84]. If it elects to provide indemnification under this Article, the organization shall follow the procedures described in [Charitable Liability and Immunity Act, Tex. Civ. Prac. & Rem Code Sec 84]. Further, the organization shall indemnify and advance expenses to an officer who is party to a proceeding because they are or were an officer of the organization, except for:
 
@@ -392,3 +410,89 @@ Democratic Socialists of America is committed to creating a space that is welcom
     2. Procedural errors, misconduct, or conflicts of interest affected the fairness of the outcome; and
     3. The remedy or penalty determined by Steering was grossly disproportionate to the violation committed
 5. Retaliation. This policy prohibits retaliation against any member for bringing a complaint of harassment pursuant to this policy. This policy also prohibits retaliation against a person who assists someone with a complaint of harassment, or participates in any manner in an investigation or resolution of a complaint of discrimination or harassment. Retaliatory behaviors includes threats, intimidation, reprisals, and/or adverse actions related to organizing. If any party to the complaint believes there has been retaliation, they may inform the HGO who will determine whether to factor the retaliation into the original complaint, or treat it as an individual incident.
+
+## ADDENDUM 3 R25: BUILDING THE YOUTH WING OF A SOCIALIST PARTY: THE NEXT STEP
+
+**WHEREAS,** at the 2023 YDSA Convention we passed For Building the Youth Wing of a Socialist Party which committed us to become a youth organization, rather than strictly a campus organization, within six years. In the resolution a youth organization was defined as:
+
+> An organization open to all socialist young people. Young people not on campus will have the option to primarily organize in either DSA or YDSA while retaining the right to organize in both. 
+> An organization which has both campus bodies and broader municipal bodies organized along the boundaries of DSA chapters. Campus bodies will continue to anchor the organization while young people not on campuses will be given the option to join YDSA and organize as full equal members.
+> An organization which seeks to build power on and beyond campus, and in the workplace, building the struggles of young people where they’re located, recruiting them to socialism, and building up their political and organizing skills and leadership.
+> A mass membership organization which aims to build a genuine socialist counter-culture inside and outside of campus spaces.
+
+**WHEREAS,** For Building the Youth Wing of a Socialist Party also prompted us to consider the following questions throughout the six-year course:
+
+- Should we modify the age cut-off and should it differ for on-campus and off-campus members?
+- How do we amend our national democratic processes to integrate non-campus members into our national conventions and decision-making while maintaining the principle of one-member-one-vote?
+- How should DSA members within the YDSA age bracket who choose to organize primarily in DSA, not YDSA, relate to our organization’s democratic processes?
+
+**WHEREAS,** early in the 2024-2025 term, the University of Wisconsin - Milwaukee YDSA, Milwaukee School of Engineering YDSA, and Marquette University YDSA requested that the NCC charter them as Milwaukee YDSA, a chapter spanning the metropolitan region of Milwaukee, Wisconsin. Instead of chartering them on a de jure basis, the NCC encouraged the chapters to organize as a regional chapter on a de facto basis, in a project known as the Milwaukee Pilot Program.
+
+**WHEREAS,** after the 2025 YDSA Organizing Conference, seeing various chapters become interested in regional organizing, the NCC voted to defer the question of regional chapters to the 2025 YDSA Convention, as the debate carries with it “political and structural implications that need to be explored rigorously by the entire organization” and are best suited to be considered in a resolution or constitutional amendment.
+
+**WHEREAS,** there are various unofficial regional formations across the country, such as Milwaukee YDSA, New York City YDSA, Chicagoland YDSA, and Los Angeles YDSA. While these regional formations vary in structure and integration with their local DSA chapters, they are united in their mission to expand the political struggles beyond just their local campuses. 
+
+**WHEREAS,** these regional experiments have proven to expand the scope of the struggles YDSA members are partaking in on their local campuses, and realize that they are part of a broader fight in their local community. Through the regional coordination of these chapters, they are able to understand that their struggle is shared, as seen by the chapters in Chicagoland YDSA & Milwaukee YDSA and their struggles for sanctuary campuses or NYC YDSA’s campaign for a Free CUNY.
+
+**WHEREAS,** regional formations assist in preventing an atomized view of campus-based struggles; they incentivize cross-campus communication, collaboration and events that serve to have chapters build each other up as comrades and peers, thereby creating strong leaders. 
+
+**WHEREAS,** by expanding the scope of their struggles on a regional scale, YDSA members become more coordinated in their participation and interventions in their local DSA chapters, as seen through Milwaukee DSA and Chicago DSA which see YDSA members coordinate interventions and even be represented on the leadership bodies of their chapters.
+
+**WHEREAS,** under the current political moment with far-right demagoguery running amok, as YDSA members, we must be equipped with flexible tactics. A nationwide wave of repression targeted towards students and activist organizations have seen consequences of students being detained and chapters suspended off of campus. This, in part, heightens the need to implement new strategies and find ways to have our organizing embedded not only on our campuses, but our broader community as a whole.
+
+
+
+**WHEREAS,** there is a base of unorganized non-student working-class youth in metropolitan areas across the United States; by organizing regional campaigns, YDSA chapters can become a political home for all socialist youth, seeing chapters dig their roots into the broader community as a whole. 
+
+**WHEREAS,** through YDSA chapters organizing regionally and ingratiating themselves in the broader community, organizers on the ground are able to have a solid foundation to find leads at other educational institutions in a regional area. By building up the political credibility of YDSA, local organizers can recruit members at neighboring institutions such as four-year institutions, community colleges and technical institutions, assisting in the founding of YDSA organizing committees. YDSA organizing on a regional scope also means that we can spread capacity between YDSA formations in the same region, building up a middle-layer of leadership that assists new organizers in running their chapters sustainably. 
+
+**WHEREAS,** by bringing in non-student working class youth we are presented with an opportunity to not only expand the diversity of our organizers in all ways, but we also take a solid step forward to bringing forward the independent party for the working class we are building DSA to be.
+
+**WHEREAS,** while chapters have been independently moving forward with their local experiments, to truly extract clear and valuable lessons from local organizing, we must ensure the regional-chapter experiment occurs in an official manner so that YDSA national can spread these lessons throughout the organization and help ensuring these experiments are carried out in a healthy and sustainable way. If we, as YDSA, are serious about becoming a youth organization by 2029, we must devote resources and capacity to continue experimenting and see how we can carry this out. For this reason, the authors present the following resolution.
+
+**THEREFORE BE IT RESOLVED,** YDSA reaffirms our commitment to building towards becoming the youth wing of a socialist party. In doing so, as we enter the third year of our six-year timeline, the 2025-2026 NCC shall commit to identifying at least three strategic sites where established campus-based chapters with the same local DSA parent chapter can merge into a de facto regional chapter. With the NCC reserving the right to amend the following list via a simple majority vote, the criteria for what constitutes a strategic site for a regional chapter shall consist of the following:
+
+There must be at least two established campus-based chapters, in a metropolitan area.
+The established campus-based chapters must possess a pre-existing relationship to one another.
+The established campus-based chapters must have a strong, communicative relationship with YDSA national.
+The established campus-based chapters must have filled steering committees and at least partial delegations to either the most recent YDSA Organizing Conference or YDSA Convention.
+The established campus-based chapters must have each chartered or successfully rechartered in the most recent year.
+
+
+**RESOLVED,** when a de facto regional chapter is formed, the established campus-based chapters are to be understood as branches of the regional chapter. Branches shall continue to meet the prerequisites to be chartered as a chapter by YDSA national. The regional steering committee shall be elected by all YDSA members in good standing within the jurisdiction of the regional chapter, with each branch also possessing its own steering committee. The regional steering committee, which shall be composed of members from each branch, is tasked with coordinating action across branches and allocating resources effectively. Members who do not find themselves in a branch, such as non-student youth, shall be considered at-large members of a regional chapter and shall be eligible to vote for positions on the regional steering committee.
+
+**RESOLVED,** when a de facto regional chapter is formed, it is essential that organizers are to build healthy and cooperative relationships with their DSA chapter in the region. The following recommendations are to be followed:
+
+The YDSA regional chapter is to have routine communication with their local DSA chapter regarding ongoing campaign and committee work. YDSA shall encourage its members to be part of their DSA chapter, and make it clear that all YDSA members are inherently DSA members too.
+The YDSA regional chapter is to maintain regular report-backs from DSA chapter organizing work to be disseminated to rank-and-file members. These reports shall function with the intent to encourage YDSA involvement in ongoing DSA chapter work.
+The YDSA regional chapter is to maintain a priority focus on youth-centered campaigns. If the YDSA regional chapter wishes to conduct a campaign already being worked on by the local DSA chapter, YDSA shall take part in the existing campaign as collaborators rather than working on their own separate campaign.
+
+
+**RESOLVED,** once the NCC has identified at least three strategic sites to form a de facto regional chapter, they shall create a cohort of de facto regional chapters to be mentored by the NCC and the Youth Growth and Development Committee (YGDC) and any other body the 2025-2026 NCC deems appropriate. Together, the NCC and the YGDC shall seek to fulfill the following goals for the regional chapters:
+
+[REGION] YDSA has embarked on a region-wide campaign across its branches.
+[REGION] YDSA has grown in both student and non-student membership and has shown an ability to develop membership in a sustainable manner.
+[REGION] YDSA has grown closer and more integrated with its local DSA chapter and YDSA membership feels empowered to participate in the broader DSA ecosystem.
+
+
+**RESOLVED,** to properly gauge how effective the regional chapter experiment is, we not only need goals, but we require established metrics to track throughout the 2025-2026 term. For this reason, with the NCC reserving the ability to amend the following list via a simple-majority vote, the bodies mentoring the regional-chapter cohort must seek to provide answers to the following questions on a case-by-case basis:
+
+1. Throughout the term, what changes has the NCC and other national bodies seen with the ability to communicate with [REGION] YDSA and its branches?
+Since being established, has the regional-formation strengthened or weakened its branches?
+2. By how much did YDSA membership in [REGION] grow?
+3. How many new members were students vs non-students?
+4. How does the activity level differ from students vs non-students?
+5. Was [REGION] YDSA able to identify bounded constituencies (e.g. workplaces, neighborhoods) to reliably recruit and organize non-student youth?
+6. Was [REGION] YDSA able to run a healthy campaign that grew and engaged membership?
+7. What were some ways that campaigning across a region differed from strictly campus-based campaigning?
+8. What were some non-campus spaces that [REGION] YDSA was able to identify as terrains that could be contested through the regional campaign? How did this affect the recruitment and development of non-student youth?
+9. What were the “asks” made of non-student youth that saw them be able to engage with the regional campaign in such a way that built them up as organizers and leaders?
+10. Were any new branches established throughout the term?
+11. Was [REGION] YDSA able to make inroads with local community colleges or technical schools?
+12. Was [REGION] YDSA able to build branches in non-campus constituencies (e.g. workplaces)? If so, which constituencies were they built at?
+
+**RESOLVED,** to be reflective of our long-term goal of building the youth wing of a socialist party, the YGDC shall incorporate these themes into its year-round programming. For example, for initiatives like the Fall Drive or the Recruitment Drive, our external-facing message shall be based around the long term project of building the independent party the working class deserves. The NCC shall also reserve the right to incorporate this theming in any other programming they deem appropriate.
+
+**RESOLVED,** on the question of delegate apportionment ahead of the 2026 YDSA Convention, as these chapters shall be organizing regional chapters in a de facto manner, delegate apportionment shall be based on membership of the established campus-based chapters. However, through a simple-majority vote, before the end of the 2026 Winter season, the NCC is expected to resolve the question of how to calculate the non-student membership a de-facto regional chapter gains throughout the 2025-2026 term.
+
+**RESOLVED,** the NCC and the YGDC shall be responsible for organizing at least one workshop at the 2026 Organizing Conference to review the regional-chapter experiment thus far, share the lessons learned, and communicate next steps for the remainder of the term.
