@@ -225,7 +225,7 @@ Austin YDSA shall have the power to create committees and boards, and may delega
 
 ### Section 8.4 Membership
 
-Membership in Austin YDSA shall be open to all members in good standing of Austin DSA under the age of 30.
+Membership in Austin YDSA shall be open to all members in good standing of Austin DSA who meet the eligibility criterion set forth in Article IV. § 1 of the national YDSA Constitution.
 
 ## Article 9 Rules and Prohibited Activity
 
